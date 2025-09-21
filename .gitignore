@@ -1,0 +1,6 @@
+*
+!.gitattributes
+!.gitignore
+!Makefile
+!touchtaiko.c
+!README.md
